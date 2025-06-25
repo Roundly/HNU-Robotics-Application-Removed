@@ -11,7 +11,7 @@
 
 - All Rights Reserved.
 
-[GitHub](https://github.com/Roundly/HNU-Robotics-Application)
-[Get Started](#湖南大学机器人学院基本手册-2024-Fall)
+[GitHub](https://github.com/Roundly/HNU-Robotics-Application-Removed/)
+[Get Started](##湖南大学机器人学院基本手册-2024-Fall)
 
 ![](src/_media/bg.jpg)

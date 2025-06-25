@@ -6,6 +6,8 @@
 
 ## 近期更新
 
+[2025-6-1]整体项目进行重构，该仓库目前处于停止更新状态，九月份上线与学院合作的新页面！
+
 [2024-12-17]更新21级保研经验分享！更新保研及考研同学去向！
 
 [2024-11-2]更新20级保研经验考研经验分享！
@@ -40,4 +42,4 @@
 
 1. 对于没有Git使用背景的大部分同学：请将编辑好的`markdown`文件发送到对应的负责人，我们会帮助你提交。(markdown的模板参考doc路径下的template)
 
-2. 对于熟悉Git操作的同学：请对[`docs`](https://github.com/Roundly/HNU-Robotics-Application/tree/master/docs)路径下的对应文件夹Pull Request，可参考 **[《如何进行经验分享》](如何进行经验分享)**，Merge后便即时上线。
+2. 对于熟悉Git操作的同学：请对[`docs`](https://github.com/Roundly/HNU-Robotics-Application-Removed/tree/archived-pages/docs)路径下的对应文件夹Pull Request，可参考 **[《如何进行经验分享》](如何进行经验分享)**，Merge后便即时上线。
